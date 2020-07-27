@@ -8,3 +8,5 @@ sklearn:
 logistic regression, kernal SVM and random forest classification
 
 Will try to improve model and update
+
+Check the current site at: https://predict-titanic-survival.herokuapp.com/
